@@ -1,1 +1,1 @@
-This is a sales dashboard having analysis of various E-commerece websites and their monthly sales country-wise using the PowerBI tool.
+This is a sales dashboard where a store's sales and orders on the monthly basis and on the basis of different states is being shown in the dashboard.
